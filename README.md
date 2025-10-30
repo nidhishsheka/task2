@@ -1,12 +1,14 @@
-## Student Exam Score Logger 
+# Student Exam Score Logger 
 
-# Description
+
+
+## Description
 
 This is a simple Java program that simulates multiple students submitting their exam marks at the same time. The scores (name, roll number, marks) get written into a .csv file safely even when many threads run at once.
 
 -----
 
-# Setup
+## Setup
 
 1.Clone this repository:
 
@@ -18,7 +20,7 @@ This is a simple Java program that simulates multiple students submitting their 
 
      java -version  
 
-# Usage
+## Usage
 
 Compile and run the program:
   
@@ -39,7 +41,7 @@ And you’ll get a file student_scores.csv with lines such as:
      245,Bharat,94
      118,Smaran,85
 
-# Running Tests
+## Running Tests
 
      javac -cp .:libs/junit-4.13.2.jar:libs/hamcrest-core-1.3.jar *.java  
      java -cp .:libs/junit-4.13.2.jar:libs/hamcrest-core-1.3.jar org.junit.runner.JUnitCore StudentScoreLoggerTest  
@@ -52,7 +54,7 @@ You should see something like:
      OK (2 tests)
 
 
-# Project Structure
+## Project Structure
 
      ├── StudentScoreLogger.java      
      ├── StudentScoreLoggerTest.java  
@@ -61,7 +63,7 @@ You should see something like:
      └── .gitignore                   
 
 
-# Author
+## Author
 
 H NIDHISH SHEKA
 
