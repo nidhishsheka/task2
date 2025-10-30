@@ -1,4 +1,4 @@
-# Student Exam Score Logger 
+## Student Exam Score Logger 
 
 # Description
 
@@ -31,7 +31,7 @@ You’ll see output like:
      Bharat (Roll No: 245, Marks: 94) has been logged successfully.
      Smaran (Roll No: 118, Marks: 85) has been logged successfully.
 
-All students have submitted their scores successfully!
+     All students have submitted their scores successfully!
 
 And you’ll get a file student_scores.csv with lines such as:
 
