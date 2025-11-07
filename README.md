@@ -12,7 +12,7 @@ This is a simple Java program that simulates multiple students submitting their 
 
 1.Clone this repository:
 
-     ```bash
+     
      git clone https://github.com/nidhishsheka/task2.git  
      cd task2  
 
