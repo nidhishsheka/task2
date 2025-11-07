@@ -58,7 +58,8 @@ You should see something like:
 
      ├── StudentScoreLogger.java      
      ├── StudentScoreLoggerTest.java  
-     ├── student_scores.csv           
+     ├── Student.java
+     ├── StudentThread.java
      ├── README.md                    
      └── .gitignore                   
 
